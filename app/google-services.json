@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310542809450",
+    "project_id": "tvserido-b9156",
+    "storage_bucket": "tvserido-b9156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310542809450:android:d7a751534c0538fc1e8d13",
+        "android_client_info": {
+          "package_name": "com.app.tvserido"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKaZJ1sLvoWlduOahSJ79e7uOcXTG0OhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

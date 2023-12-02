@@ -1,0 +1,81 @@
+{
+  "radio": [
+    {
+      "radio_name": "RÁDIO TV SERIDÓ",
+      "radio_genre": "PROGRAMAS",
+      "radio_url": "https://stm2.xradios.com.br:9904/stream",
+      "radio_image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSa1Ou8WjvJE-Qd3B677TrXcEg7j3Bv_P1udGjMrrHJLiAP-6VDAfWkOCc77PjoYDKh4vSUgi3w8CjGz1Caz_JGQCaQE67tFhT0WnSSVSb5WWPuPhl5PT-heEph8mTY_ikUt3YUpMZjlzyFXf7K7e1rjx9z2cGGCAif0MWaZcqqceyuircq-d3phvSlc/s320/Capa.png",
+      "background_image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-LtIZnz9omKfme_9KqrAQpRxFaGNgo6v4EbTbK3-6Wjb7DOw0yiqrmKYFgSdvQTrwBYIp06t8jgnKseorW3Pcxhhr4vqtAll9KJI1Oh-G2zKqJjsrg3_y96mbSVydEq9VYAkgYN_aF_oVXQbFMrWqDIhOLz44sv0zBLPvepFHvZXe4LqKjOwgi3xLnBI/s320/Fundo.png",
+      "blur_radio_background": "true",
+      "song_metadata": "true",
+      "image_album_art": "false",
+      "image_album_art_dynamic_background": "false",
+      "auto_play": "true"
+    }
+  ],
+  "settings": [
+    {
+      "app_status": "1",
+      "onesignal_app_id": "a201a5a1-dccb-4631-b5fe-240515febfd7",
+      "fcm_notification_topic": "your_single_radio_topic",
+      "privacy_policy_url": "https://tvserido0.blogspot.com/2023/11/politica-de-privacidade-e-cookies.html",
+      "more_apps_url": "",
+      "redirect_url": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": "off",
+      "ad_type": "admob",
+      "backup_ads": "none",
+      "admob_publisher_id": "pub-3940256099942544",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_ad_unit_id": "0",
+      "applovin_interstitial_ad_unit_id": "0",
+      "applovin_native_ad_manual_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_placement_name": "DefaultBanner",
+      "ironsource_interstitial_placement_name": "DefaultInterstitial",
+      "interstitial_ad_interval": 2
+    }
+  ],
+  "socials": [
+    {
+      "social_name": "YOUTUBE",
+      "social_icon": "https://cdn-icons-png.flaticon.com/512/3670/3670147.png",
+      "social_url": "https://youtube.com/@tvseridoofc?si=dY5vIr4jT1ktR0Vw"
+    },
+    {
+      "social_name": "INSTAGRAM",
+      "social_icon": "https://cdn-icons-png.flaticon.com/512/1384/1384015.png",
+      "social_url": "https://www.instagram.com/tvseridooficial/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA=="
+    },
+    {
+      "social_name": "FACEBOOK",
+      "social_icon": "https://cdn-icons-png.flaticon.com/512/1384/1384005.png",
+      "social_url": ""
+    },
+    {
+      "social_name": "WHATSAPP",
+      "social_icon": "https://cdn-icons-png.flaticon.com/512/1384/1384007.png",
+      "social_url": ""
+    }
+
+  ]
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--application name-->
+    <string name="app_name">RÁDIO TV SERIDÓ</string>
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_recent">HOME</string>
+    <string name="drawer_social">NOS ENCONTRE 👇</string>
+    <string name="drawer_other">OUTROS</string>
+    <string name="drawer_rate_us">NOS AVALIE</string>
+    <string name="drawer_more_apps">MAIS APLICATIVOS</string>
+    <string name="drawer_share">COMPARTILHAR</string>
+    <string name="drawer_privacy_policy">POLÍTICA DE PRIVACIDADE</string>
+    <string name="drawer_permission">PERMISSÕES</string>
+    <string name="drawer_about">SOBRE NÓS</string>
+
+    <!--permission agreement-->
+    <string name="permission_title">Obrigado por instalar nosso aplicativo de Web Rádio</string>
+    <string name="btn_allow_permissions">Permitir permissões agora</string>
+    <string name="btn_later">Vou fazer mais tarde</string>
+    <string name="permission_message">
+        <![CDATA[
+        <p>Por favor, dê-nos as permissões abaixo :</p>
+        <p><strong>PERMISSÃO DE TELEFONE</strong> : ele será usado para parar de tocar rádio quando houver uma chamada telefônica recebida.</p>
+        <p>Não se preocupe, garantimos que seus dados são 100% seguros e não coletamos nenhum dado que você tenha, a permissão que você dá é apenas para que este aplicativo funcione corretamente.</p>
+        ]]>
+    </string>
+
+    <!--about information-->
+    <string name="sub_about_app_copyright">2023 Eduardo Nogueira. \nTodos os Direitos Reservados</string>
+    <string name="sub_about_app_version">Versão</string>
+
+    <!--sleeping timer-->
+    <string name="sleep_time">Hora de dormir</string>
+    <string name="min">Minutos</string>
+    <string name="set">Definir</string>
+    <string name="cancel">Cancelar</string>
+    <string name="stop">Parar</string>
+
+    <!--network & error message-->
+    <string name="failed_title_text">Whoops!</string>
+    <string name="failed_text">Nenhuma conexão de internet encontrada. Verifique sua conexão ou tente novamente mais tarde!</string>
+    <string name="internet_not_connected">Internet não conectada</string>
+    <string name="error_loading_radio">Erro ao carregar rádio ou servidor atualmente inativo. Tente novamente mais tarde.</string>
+    <string name="msg_cancel_update">Atualização cancelada</string>
+    <string name="msg_success_update">Atualização com sucesso!</string>
+    <string name="msg_failed_update">Falha na atualização!</string>
+
+    <!--share-->
+    <string name="share_content">Eu gostaria de compartilhar isso com você. Aqui você pode baixar este aplicativo da PlayStore </string>
+
+    <!--exit dialog-->
+    <string name="message">O que você quer fazer?</string>
+    <string name="dialog_option_cancel">CANCELAR</string>
+    <string name="dialog_option_quit">SAIR</string>
+    <string name="dialog_option_minimize">MINIMIZAR</string>
+
+    <!--redirect if app suspended-->
+    <string name="redirect_title">Novas atualizações de aplicativos</string>
+    <string name="redirect_message">Este aplicativo expirou e não é mais usado, pressione o botão abaixo para baixar e instalar a atualização mais recente deste aplicativo.</string>
+    <string name="redirect_button">Baixe a atualização agora</string>
+    <string name="redirect_error">Opa! há um problema com a url, tente novamente mais tarde</string>
+
+    <!--other string tag name-->
+    <string name="option_ok">OK</string>
+    <string name="btn_retry">TENTAR NOVAMENTE</string>
+    <string name="no_radio_selected">Whoops, Nenhum rádio selecionado!</string>
+    <string name="drawer_open">Abra a gaveta de navegação</string>
+    <string name="drawer_close">Fechar gaveta de navegação</string>
+    <string name="no_social_found">Whoops, nenhuma rede social disponível no momento</string>
+
+ </resources>
